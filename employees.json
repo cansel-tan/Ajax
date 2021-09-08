@@ -1,0 +1,22 @@
+[
+
+    {
+        "firstName" : "test",
+        "lastName" : "user",
+        "age" : 19,
+        "retired" : false
+    },
+    {
+        "firstName" : "test2",
+        "lastName" : "user",
+        "age" : 1,
+        "retired" : false
+    },
+    {
+        "firstName" : "test3",
+        "lastName" : "user",
+        "age" : 55,
+        "retired" : true
+    }
+
+]
